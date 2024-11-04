@@ -1,0 +1,19 @@
+# ninja log v6
+7	682	7523803929910808	ThreadExample_autogen/timestamp	c5427b8ca5fb7b7
+7	682	7523803929910808	ThreadExample_autogen/mocs_compilation.cpp	c5427b8ca5fb7b7
+7	682	7523803929910808	C:/Users/hp/Documents/ThreadExample/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ThreadExample_autogen/timestamp	c5427b8ca5fb7b7
+7	682	7523803929910808	C:/Users/hp/Documents/ThreadExample/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ThreadExample_autogen/mocs_compilation.cpp	c5427b8ca5fb7b7
+693	3273	7523803930975431	CMakeFiles/ThreadExample.dir/main.cpp.obj	5a18a79ab1102197
+690	3286	7523803930936455	CMakeFiles/ThreadExample.dir/ThreadExample_autogen/mocs_compilation.cpp.obj	a3640e726d012b36
+697	3418	7523803931015329	CMakeFiles/ThreadExample.dir/mainwindow.cpp.obj	e7a0e6ef0215c7e
+3418	3700	7523803958220151	ThreadExample.exe	cfa4e9f93d9bc31
+40	204	7523809643055193	ThreadExample_autogen/timestamp	c5427b8ca5fb7b7
+40	204	7523809643055193	ThreadExample_autogen/mocs_compilation.cpp	c5427b8ca5fb7b7
+40	204	7523809643055193	C:/Users/hp/Documents/ThreadExample/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ThreadExample_autogen/timestamp	c5427b8ca5fb7b7
+40	204	7523809643055193	C:/Users/hp/Documents/ThreadExample/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ThreadExample_autogen/mocs_compilation.cpp	c5427b8ca5fb7b7
+43	219	7523809965570169	ThreadExample_autogen/timestamp	c5427b8ca5fb7b7
+43	219	7523809965570169	ThreadExample_autogen/mocs_compilation.cpp	c5427b8ca5fb7b7
+43	219	7523809965570169	C:/Users/hp/Documents/ThreadExample/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ThreadExample_autogen/timestamp	c5427b8ca5fb7b7
+43	219	7523809965570169	C:/Users/hp/Documents/ThreadExample/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ThreadExample_autogen/mocs_compilation.cpp	c5427b8ca5fb7b7
+220	2461	7523809967387969	CMakeFiles/ThreadExample.dir/mainwindow.cpp.obj	e7a0e6ef0215c7e
+2461	2674	7523809989800584	ThreadExample.exe	cfa4e9f93d9bc31
